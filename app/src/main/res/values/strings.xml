@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigationAnimation</string>
+    <string name="bottom_bar_home_label">Home</string>
+    <string name="bottom_bar_network_label">Network</string>
+    <string name="bottom_bar_new_post_label">New Post</string>
+    <string name="bottom_bar_notification_label">Notifications</string>
+    <string name="bottom_bar_profile_label">Profile</string>
+</resources>
