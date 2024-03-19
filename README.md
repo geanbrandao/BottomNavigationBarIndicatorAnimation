@@ -25,7 +25,10 @@ Você pode personalizar o indicador e a animação da seguinte maneira:
 
 Aqui está uma pré-visualização do BottomAppBar Indicator:
 
-![Pré-visualização]()
+
+https://github.com/geanbrandao/BottomNavigationBarIndicatorAnimation/assets/47817765/584bb98a-77b9-4d96-bab1-06f329149280
+
+
 
 ## Autor
 
